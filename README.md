@@ -6,8 +6,8 @@ can improve. Parents need to know how their children are doing so that they can 
 Teachers need to be able to give meaningful feedback to their students in a finite amount of time.
 
 3D Assessment aims to give students, teachers and parents a meaningful measure of progress made up of 3 dimensions:
-* Organisation: How much of a given project has a student completed?
-* Understanding: How deeply does a student understand their work?
+* Breadth of understanding: How much of a topic has a student covered?
+* Depth of understanding: How deeply does a student understand their work?
 * Independence: How much support has a student been given?
 
 3D Assessment is in the very eary development stage. Please see the Wiki page for further details:
