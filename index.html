@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>3D Assessment</title>
+<link rel="stylesheet" type="text/css" href="lib/jqmobile/jquery.mobile-1.4.5.min.css">
+<link rel="stylesheet" type="text/css" href="styles/main.css">
+<script src="lib/jqmobile/jquery-1.11.2.min.js"></script>
+<script src="lib/jqmobile/jquery.mobile-1.4.5.min.js"></script>
+<script src="lib/3da.js"></script>
+</head>
+
+<body>
+
+<div data-role="page">
+	
+	<div data-role="header"><h1>3D Assessment by P. Dring</h1>
+    </div>
+    
+	<div role="main" class="ui-content school-logo">
+    <div id="subject"></div>
+    </div>
+    
+    <div data-role="popup" id="dlg" data-transition="fade"></div>
+	<div data-role="footer">This is a proof of concept only</div>
+</div>
+
+<script> 
+
+
+$(function(){
+	var a = new Assessment("KS3 Computing");
+	a.init();	
+	
+});
+</script>
+</body>
+
+</html>
+

@@ -1,0 +1,23 @@
+.school-logo {
+	background-image:url(../media/schoolLogo.png);
+	background-position:top right;
+	background-repeat:no-repeat;
+}
+
+.criteria {
+	background: linear-gradient(rgba(255,255,255,0.8), rgba(200,200,200,0.8));
+	border-radius:5px;
+	padding: 10px;
+	margin: 5px;
+}
+
+.grade_area {
+	margin:5px;
+	padding:10px;
+	background: linear-gradient(rgba(255,255,255,0.8), rgba(200,200,200,0.8));
+	border-radius: 5px;
+}
+
+.criteria_indicator {
+	float:right;
+}
